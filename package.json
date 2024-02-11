@@ -12,7 +12,7 @@
     "ejs": "^3.1.6",
     "grammy": "^1.1.4",
     "node-pre-gyp": "^0.17.0",
-    "telegram": "^1.7.6",
+    "telegram": "^2.5.10",
     "tgcalls": "^0.1.3"
   }
 }
